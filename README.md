@@ -13,3 +13,4 @@ mais uma nova mudança
 
 Esse negocio esta ficando legal
 
+Estou precisando assistir as aulas do curso de R Basic
