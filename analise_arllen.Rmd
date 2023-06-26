@@ -5,6 +5,7 @@ bla bla bla
 
 
 ```{r}
-plot(rnorm(100))
+z=rnorm(100)
+plot(z)
 ```
 
