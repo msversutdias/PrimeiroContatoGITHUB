@@ -5,4 +5,4 @@ x<-rnorm(100)
 plot(x)
 
 
-#um scrip para chamar de meu 
+#um script para chamar de meu 
