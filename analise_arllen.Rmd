@@ -39,3 +39,14 @@ adonis2(BCI~prestondistr(x,))
 plot(prestondistr(BCI))
 ```
 
+Rarefação com os dados BCI
+
+```{r}
+S<-specnumber(BCI)
+(raremax <- min(rowSums(BCI)))
+Srare <- rarefy(BCI, raremax)
+plot(S, Srare, xlab = "Observed No. of Species", ylab = "Rarefied No. of Species")
+
+
+```
+
