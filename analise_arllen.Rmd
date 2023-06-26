@@ -28,6 +28,13 @@ plot(a)
 
 ```
 
+Tarefa Arllen
+```{r}
+head(BCI)
+adonis2(BCI~prestondistr(x,))
+```
+
+
 ```{r}
 plot(prestondistr(BCI))
 ```
