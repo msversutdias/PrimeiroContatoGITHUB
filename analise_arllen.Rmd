@@ -55,3 +55,8 @@ rarecurve(BCI, step = 20, sample = raremax, col = "blue", cex = 0.6)
 
 ```
 
+iosjdisjdisjdss
+sas
+as
+asd
+asdasd
