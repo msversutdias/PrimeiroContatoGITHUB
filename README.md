@@ -13,4 +13,6 @@ mais uma nova mudança
 
 Esse negocio esta ficando legal
 
-Estou precisando assistir as aulas do curso de R Basic
+Estou precisando assistir as aulas do curso de R Basic.
+
+Eu também incluí mais uma análise legal para vcs compararem. Tentem fazer a inclusão destas coisas no git e criar um ramo para cada um de vcs.
