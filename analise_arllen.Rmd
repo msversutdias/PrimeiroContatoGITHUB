@@ -24,5 +24,10 @@ x<-runif(10)
 data(BCI)
 a<-specaccum(BCI,method = "random")
 plot(a)
+
+```
+
+```{r}
+plot(prestondistr(BCI))
 ```
 
