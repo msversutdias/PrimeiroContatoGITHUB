@@ -20,3 +20,9 @@ library(vegan)
 x<-runif(10)
 ```
 
+```{r}
+data(BCI)
+a<-specaccum(BCI,method = "random")
+plot(a)
+```
+
